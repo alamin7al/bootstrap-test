@@ -19,3 +19,11 @@ margin: 0 auto;
 .height-88{
     min-height: 100vh;
 }
+.about-picture{
+    
+background: url(/player-3.png)center/cover no-repeat fixed;
+/* background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+background-attachment: fixed; */
+}
