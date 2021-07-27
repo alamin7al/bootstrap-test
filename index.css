@@ -8,3 +8,18 @@
 .height{
     min-height: 100vh;
 }
+.height-80{
+    min-height: 100vh;
+}
+.title-underline{
+    width: 200px;
+    height: 10px;
+    margin: 0 auto;
+}
+.about-picture{
+  
+    background-attachment: fixed;
+}
+.heigh{
+    height: 600px !important;
+}
