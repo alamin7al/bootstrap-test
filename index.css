@@ -1,29 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Arvo:wght@700&display=swap');
         body{
             font-family: 'Arvo', serif;
-            
+            text-transform: capitalize;
             }
             
-            .height{
-                min-height: 100vh;
-            }
-
-
-
-.title-underline{
-width: 200px;
-height: 8px;
-margin: 0 auto;
-}
-
-.height-88{
+          
+.height{
     min-height: 100vh;
-}
-.about-picture{
-    
-background: url(/player-3.png)center/cover no-repeat fixed;
-/* background-size: cover;
-background-position: center;
-background-repeat: no-repeat;
-background-attachment: fixed; */
 }
