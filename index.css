@@ -2,15 +2,16 @@
         body{
             font-family: 'Arvo', serif;
             text-transform: capitalize;
+            overflow-x: hidden;
             }
             
           
-.height{
+/* .height{
     min-height: 100vh;
 }
 .height-80{
     min-height: 100vh;
-}
+} */
 .title-underline{
     width: 200px;
     height: 10px;
@@ -22,4 +23,18 @@
 }
 .heigh{
     height: 600px !important;
+}
+#filter{
+    background: url(about.jpg);
+    background-color: #cccccc;
+    height: 620px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+@media (max-width:700px) {
+    #filter{
+        height: 300px;
+
+    }
 }
